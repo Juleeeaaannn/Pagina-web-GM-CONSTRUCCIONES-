@@ -1,6 +1,9 @@
 body{
     font-family:'open-sans', sans-serif;
 }
+section[id]{
+scroll-margin-top: 70px;
+}
 .nav-link:hover, .foo {
     border-bottom: 5px solid #ff5900;
 }
