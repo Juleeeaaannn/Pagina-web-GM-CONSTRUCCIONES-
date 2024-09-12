@@ -1,4 +1,4 @@
-# PAGINA_DE_CONSTRUCCIONES
-Pagina para una empresa de construcciones!c =D
+# PAGINA_DE_CONSTRUCCION
+Pagina para una empresa de construcciones!
 
 https://juleeeaaannn.github.io/Pagina-para-empresa-de-construccion/
